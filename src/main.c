@@ -44,7 +44,7 @@ void action_student_view_fee(Student *s);
 void action_student_change_password(Student *s);
 
 int main() {
-    init_school(&school, "Sitender's School of Science and Technology");
+    init_school(&school, "Garima's School of Science and Technology");
     init_admin(&admin, "admin", "admin123", &school);
 
     while (1) {
@@ -835,3 +835,4 @@ void action_student_change_password(Student *s) {
     }
     pause_screen();
 }
+

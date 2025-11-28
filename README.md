@@ -303,5 +303,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For inquiries or support, please contact:
 - 🧑‍💻 **Name:** <a href="mailto:garimakapoor.work@gmail.com"><strong>Garima Kapoor</strong></a>
 
-
+- **Email:** [📧 Email Me](mailto:sitendermax@gmail.com)
 

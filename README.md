@@ -71,7 +71,9 @@ ScholarSync simplifies school management through an intuitive command-line inter
 
 3. **Run the application**
    ```bash
-   python main.py
+   make
+
+   ./school_management.exe
    ```
 
 No additional dependencies required! 🎉
@@ -81,7 +83,7 @@ No additional dependencies required! 🎉
 When you launch the application, you'll see the main menu:
 
 ```
-===== Sitender's School of Science and Technology =====
+===== Garima Kapoor's School of Science and Technology =====
 1. Admin Login
 2. Teacher Login
 3. Student Login
@@ -187,3 +189,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you find this project helpful, please consider giving it a ⭐!
 
 </div>
+

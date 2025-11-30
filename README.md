@@ -1,9 +1,6 @@
 # 🎓 ScholarSync - School Management System
 
-A comprehensive Python-based school management system designed to streamline administrative tasks, manage student and teacher information, and facilitate seamless communication within educational institutions.
-
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+A comprehensive C-based school management system designed to streamline administrative tasks, manage student and teacher information, and facilitate seamless communication within educational institutions.
 
 ## 📋 Table of Contents
 
@@ -14,8 +11,6 @@ A comprehensive Python-based school management system designed to streamline adm
 - [User Roles & Access](#user-roles--access)
 - [Project Structure](#project-structure)
 - [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## 🌟 Overview
@@ -55,7 +50,7 @@ ScholarSync simplifies school management through an intuitive command-line inter
 ## 🚀 Installation
 
 ### Prerequisites
-- Python 3.x installed on your system
+- gcc installed on your system
 
 ### Steps
 
@@ -123,20 +118,6 @@ Teachers and students receive their credentials when added to the system by the 
 
 ## 📁 Project Structure
 
-```
-ScholarSync/
-│
-├── main.py              # Entry point of the application
-├── student.py           # Student class definition
-├── teacher.py           # Teacher class definition
-├── classroom.py         # Classroom class definition
-├── school.py            # School class definition
-├── admin.py             # Admin class definition
-├── interface.py         # User interface and menu system
-├── README.md            # Project documentation
-└── LICENSE              # MIT License file
-```
-
 ## 🔮 Future Enhancements
 
 - 📊 Database integration for persistent data storage
@@ -169,10 +150,6 @@ Contributions are welcome! Here's how you can help:
 
 For major changes, please open an issue first to discuss your proposed modifications.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📧 Contact
 
 **Garima Kapoor**
@@ -189,4 +166,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you find this project helpful, please consider giving it a ⭐!
 
 </div>
+
 
